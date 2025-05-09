@@ -1,6 +1,6 @@
  Vai, Corinthians! 🖤🤍
 
-<img align="right" alt="cat-coding-gif" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY5OGFyd254Z3E5OHlwMm93aG4wcTA5eWQ0dXV0eW9vd2wxb2swZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4mYkEXJnMYKW4FbMM/giphy.gif" width="800" />
+![yuri-alberto](https://github.com/user-attachments/assets/9b473e02-1244-4ebe-aa8d-a088c06155bd)
 
 
 
@@ -11,3 +11,5 @@
 - 🌎 Sempre de olho no próximo desafio
 
 🏳️‍🌈 Desenvolvendo com raça, amor e determinação!
+
+
