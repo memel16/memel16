@@ -1,16 +1,15 @@
-## Hi there 👋
+ Vai, Corinthians! 🖤🤍
 
-<!--
-**memel16/memel16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" src="https://lncimg.lance.com.br/cdn-cgi/image/width=1920,height=undefined,quality=75/uploads/2023/01/18/63c8b02655bb7.jpeg" width="120"/>
 
-Here are some ideas to get you started:
+https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExamY5OGFyd254Z3E5OHlwMm93aG4wcTA5eWQ0dXV0eW9vd2wxb2swZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c4mYkEXJnMYKW4FbMM/giphy.gif
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+ Sobre mim
+- 🧠 Estudante em constante evolução  
+- ⚽ Torcedor do **Sport Club Corinthians Paulista**  
+- 🔧 apaixonada por luta, e futebol  
+- 🌎 Sempre de olho no próximo desafio
+
+🏳️‍🌈 Desenvolvendo com raça, amor e determinação!
