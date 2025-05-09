@@ -15,4 +15,10 @@
 
 🏳️‍🌈 Desenvolvendo com raça, amor e determinação!
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memel16&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=memel6&theme=tokyonight" alt="Github estatísticas"/>
+</div>
+
+
 
