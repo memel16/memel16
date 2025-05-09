@@ -5,6 +5,9 @@
 
 
  Sobre mim
+ meu nome é Mellyssa Ferreira Santana,estudo linguagem de progamaçaõ python com o professor @ricardolimaa29,pretendo estudar direito também para entrar na policia federal,mais pretendo seguir no caminho com estudos sobre python.
+
+ 
 - 🧠 Estudante em constante evolução  
 - ⚽ Torcedor do **Sport Club Corinthians Paulista**  
 - 🔧 apaixonada por luta, e futebol  
