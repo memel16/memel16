@@ -5,7 +5,7 @@
 
 
  Sobre mim
- meu nome é Mellyssa Ferreira Santana,estudo linguagem de progamaçaõ python com o professor @ricardolimaa29,pretendo estudar direito também para entrar na policia federal,mais pretendo seguir no caminho com estudos sobre python.
+ meu nome é Mellyssa Ferreira Santana,estudo linguagem de progamação python com o professor @ricardolimaa29,pretendo estudar direito também para entrar na policia federal,mais pretendo seguir no caminho com estudos sobre python.
 
  
 - 🧠 Estudante em constante evolução  
