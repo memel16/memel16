@@ -13,7 +13,7 @@
 - 🔧 apaixonada por luta, e futebol  
 - 🌎 Sempre de olho no próximo desafio
 
-🏳️‍🌈 Desenvolvendo com raça, amor e determinação!
+-💻 Desenvolvendo com raça, amor e determinação!
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=memel16&layout=compact&langs_count=20&theme=tokyonight" alt="Github top linguagens"/>
