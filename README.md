@@ -1,4 +1,4 @@
- oiii, tudo bem? vou falar um pouquinho sobre mim.🤍
+ oiii, tudo bem? espero que sim...bom vou fala um pouquinho de mim.🤍
 
 meu nome é Mellyssa Ferreira Santana,estudo linguagem de progamação python com o professor @ricardolimaa29,pretendo fazer faculdade de Direito pois pretendo entrar na policia,mais pretendo seguir no caminho com estudos sobre python e evoluir cada dia.
 
